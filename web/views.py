@@ -16,7 +16,7 @@ def longin(request):
     if request.method=='GET':
         return render(request,"login.html")
     else:
-        request.
+
         return HttpResponse("FULIHUA")
 
 

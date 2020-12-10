@@ -3,4 +3,4 @@
 from django import  forms
 
 
-class loginFrom(forms.Form):
+#class loginFrom(forms.Form):
